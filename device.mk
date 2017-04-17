@@ -34,6 +34,10 @@ PRODUCT_PACKAGES += \
     nc \
     Stk \
     libreference-cdma-sms
+	
+# Alternate optional key maps
+PRODUCT_PACKAGES += \
+    MaseratiKeypad
 
 # Kexec files
 PRODUCT_COPY_FILES += \
